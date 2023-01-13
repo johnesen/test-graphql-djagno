@@ -1,0 +1,10 @@
+venv/
+back_media/
+back_static/
+**/__pycache__/
+user/migrations/00*.py
+db.sqlite3
+.idea
+static/
+media/
+*.pyc
